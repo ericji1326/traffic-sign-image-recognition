@@ -5,4 +5,4 @@ hyperparameters, the final validation accuracy was around 80%.
 
 Here is a demo of the project being used on a video feed of a drive-around in Berlin.
 
-![Convolutional Neural Network Demo](demo.gif)
+![Convolutional Neural Network Demo](Neural-Network-Demo-final.gif)
